@@ -1,1 +1,1 @@
-# zengarden
+# zen-garden
